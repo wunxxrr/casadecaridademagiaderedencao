@@ -1,0 +1,38 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(Fundo.jpg);
+
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    background: #f7f7f78c;
+    padding: 10px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.band-name {
+    text-align: center; 
+}
+
+.headline {
+    text-align: center;
+}
+
+.concerts {
+    margin: 30px 0px;
+    text-align: center;
+    width: 100%;
+}
+
+.concerts table {
+    background: #836fff85;
+    border-radius: 10px;
+}
